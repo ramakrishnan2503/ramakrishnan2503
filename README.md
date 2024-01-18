@@ -17,7 +17,7 @@ I am a student at Sri Eshwar College of Engineering, India, and I'm passionate a
 
 ## 🌐 Connect with Me
 
-- LinkedIn: **[(https://www.linkedin.com/in/ramakrishnan-b-459583242/)]**
+- LinkedIn: **https://www.linkedin.com/in/ramakrishnan-b-459583242/**
 - Mail: **ramakrishnanb2004@gmail.com**
 
 
