@@ -10,10 +10,12 @@ I am a student at Sri Eshwar College of Engineering, India, and I'm passionate a
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, C, C++
-- **Machine Learning Frameworks:** TensorFlow, Keras, SpaCy, NLTK 
-- **Data Science:** Pandas, NumPy, Matplotlib
-- **Web Development:** HTML, CSS, JavaScript, Streamlit
+- **Programming Languages:** Python | C | C++
+- **Machine Learning Frameworks:** TensorFlow | Keras | SpaCy | NLTK | Scikit-learn
+- **Data Science:** Pandas | NumPy | Matplotlib
+- **Machine Learning** | **Deep Learning** | **Natural Language Processing** | **Generative AI** | **Prompt Engineering** | **Computer Vision**
+- **QueryLanguages:** SQL | MongoDB
+- **Web Development:** HTML | CSS | JavaScript | Streamlit
 
 ## 🌐 Connect with Me
 
