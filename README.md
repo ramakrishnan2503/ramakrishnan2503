@@ -8,19 +8,23 @@ I am a student at Sri Eshwar College of Engineering, India, and I'm passionate a
 -  Passionate about exploring the realms of AI and ML.
 -  Constantly learning and trying to stay updated with the latest technologies in the field.
 
+
 ## 🛠️ Skills
 
 - **Programming Languages:** Python | C | C++
-- **Machine Learning Frameworks:** TensorFlow | Keras | SpaCy | NLTK | Scikit-learn
-- **Data Science:** Pandas | NumPy | Matplotlib
+- **Core Concepts:** OOPS | OS | DBMS 
+- **Machine Learning Frameworks:** TensorFlow | Keras | Scikit-learn | SpaCy | NLTK 
+- **Data Analysis:** Pandas | NumPy | Matplotlib
 - **Machine Learning** | **Deep Learning** | **Natural Language Processing** | **Generative AI** | **Prompt Engineering** | **Computer Vision**
+- **Web Development:** HTML | CSS | JavaScript | Streamlit | FastAPI (Basics)
 - **QueryLanguages:** SQL | MongoDB
-- **Web Development:** HTML | CSS | JavaScript | Streamlit
+- **Tools:** VSCode | Pycharm | Jupyter Notebook | Colab | Postman | Git
 
 ## 🌐 Connect with Me
 
 - LinkedIn: **https://www.linkedin.com/in/ramakrishnan-b-459583242/**
 - Mail: **ramakrishnanb2004@gmail.com**
+- Leetcode : **https://leetcode.com/u/sece_mad_046/**
 
 
 
